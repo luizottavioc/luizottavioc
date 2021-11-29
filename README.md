@@ -7,7 +7,7 @@
 + 🌎 Brazilian <br>
 + 🏫 Systems of Information's student on UNA University <br>
 + 💻 Actually working with Front-End to Transpedrosa S.A., building own projects for the company's uses <br>
-+ 📚 Good knowledges in HTML, CSS, PHP and Javascript
++ 📚 Good knowledges in HTML, CSS, PHP, Ajax, Jquery, Javascript, Java, C++ and SQL
 + 👾 Future Programmer and Full-Stack Dev.<br><br>
 
 <div align="center">
