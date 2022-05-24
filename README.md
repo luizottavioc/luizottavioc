@@ -3,7 +3,7 @@
 <h3> Luiz Otávio Carvalho 📌 </h3>
 <hr>
 
-+ 🎈 19 years
++ 🎈 20 years
 + 🌎 Brazilian <br>
 + 🏫 Systems of Information's student on UNA University <br>
 + 💻 Actually working with Front-End to Transpedrosa S.A., building own projects for the company's uses <br>
