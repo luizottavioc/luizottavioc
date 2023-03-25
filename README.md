@@ -7,14 +7,14 @@
 
 <h3 align="center"> Luiz Otávio Carvalho 📌 </h3>
 <hr>
-+ 🎈 20 years
-+ 🌎 Brazilian <br>
-+ 🏫 Systems of Information's student on UNA University <br>
-+ 💻 Full-Stack developer at Transpedrosa S.A., building own projects for the company's uses <br>
-+ 📚 PHP (CodeIgniter4), Javascript (Jquery), CSS (Sass), MySQL, Python, Java
-  
-##
 
+- 🎈 20 years 
+- 🌎 Brazilian 
+- 🏫 Systems of Information's student on UNA University 
+- 💻 Full-Stack developer at Transpedrosa S.A., building own projects for the company's uses 
+- 📚 PHP (CodeIgniter4), Javascript (Jquery), CSS (Sass), MySQL, Python, Java
+  
+<br><br><br>
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luizottavioc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizottavioc&layout=compact&langs_count=7&theme=dracula"/>
