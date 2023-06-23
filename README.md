@@ -12,7 +12,7 @@
 - 🌎 Brazilian 
 - 🏫 Systems of Information's student on UNA University 
 - 💻 Full-Stack developer at Transpedrosa S.A., building own projects for the company's uses 
-- 📚 PHP (CodeIgniter4), Javascript (Jquery), CSS (Sass), MySQL, Python, Java
+- 📚 CodeIgniter4, Laravel, Vue, React, MariaDB, MongoDB, Sass, Python, Java
   
 <br>
 <div align="center">
