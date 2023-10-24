@@ -1,4 +1,4 @@
-<h3 align="center"> Hi! I'm <i> Luiz Otávio Carvalho </i> 👋 </h3>
+<h3 align="center"> Hi! I'm <i> Luiz Otávio Carvalho </i> 👋🇧🇷 </h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=luizottavioc" alt="luizottavioc" />
