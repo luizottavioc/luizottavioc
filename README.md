@@ -12,7 +12,7 @@
 - 🎈 21 years 
 - 🏫 Systems of Information's student on UNA University 
 - 💻 Full-Stack developer at Transpedrosa S.A., building own projects for the company's uses 
-- 📚 CodeIgniter4, Laravel, Vue, React, MariaDB, MongoDB, Sass, Python, Java
+- 📚 CodeIgniter, Laravel, Vue, React, MariaDB, MongoDB, Sass, Python, Java
   
 <br>
 
