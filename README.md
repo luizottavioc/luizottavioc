@@ -9,10 +9,9 @@
 <hr>
 
 - 🌎 Brazilian 
-- 🎈 21 years 
+- 💻 Full-Stack Developer
 - 🏫 Systems of Information's student on UNA University 
-- 💻 Full-Stack developer at Transpedrosa S.A., building own projects for the company's uses 
-- 📚 CodeIgniter, Laravel, Vue, React, MariaDB, MongoDB, Sass, Python, Java
+- 📚 CodeIgniter, Laravel, Vue, React, MariaDB, MongoDB, Sass, Go, Python, Java
   
 <br>
 
