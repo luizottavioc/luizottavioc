@@ -7,7 +7,6 @@
 </div>
 <hr>
 <p align="center">
-  🌎 Brazilian <br>
   💻 Full-Stack Developer <br>
   🏫 Systems of Information's student on UNA University
 </p>
