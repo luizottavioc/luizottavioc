@@ -38,11 +38,12 @@
 </div>
 
 ### Know my work!
-- <img src="https://github.com/luizottavioc/luizottavioc/assets/89395176/67f123a4-992c-4424-b1e4-8fbb60f7f046)" alt="logo-tira-ai" width="15"> **Tira Aí!**:
-  - Application that draws balanced teams for recreational football matches, meaning that users do not spend a lot of time drawing teams, reducing time and disagreements.
-  - Dynamic and reactive creation of lists and their players, customizable parameterization for draws, support for sharing generated teams and created lists.
-  - No login required
-  - Link: <https://tira-ai.com.br>
+
+#### Tira Aí! <img src="https://github.com/luizottavioc/luizottavioc/assets/89395176/67f123a4-992c-4424-b1e4-8fbb60f7f046" alt="logo-tira-ai" width="15">
+- Application that draws balanced teams for recreational football matches, meaning that users do not spend a lot of time drawing teams, reducing time and disagreements.
+- Dynamic and reactive creation of lists and their players, customizable parameterization for draws, support for sharing generated teams and created lists.
+- No login required.
+- Link: [https://tira-ai.com.br](https://tira-ai.com.br).
   
 
 ### Let's talk
