@@ -35,8 +35,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)  
 <div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizottavioc&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luizottavioc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizottavioc&layout=compact&langs_count=10&theme=dracula&count_private=true&exclude_repo=python-concepts&size_weight=0.2&count_weight=0.5&hide=html,blade"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luizottavioc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>
 </div>
 
 ### Know my work!
