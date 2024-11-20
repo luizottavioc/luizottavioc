@@ -12,15 +12,18 @@
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=amazonrds)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=amazonrds)  
+\
+![Most used lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizottavioc&layout=donut&card_width=100%&langs_count=8&theme=dracula&count_private=true&exclude_repo=python-concepts&size_weight=0.2&count_weight=0.5&hide=html,blade)
 
 ### Technologies
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=CodeIgniter)
+![Hyperf](https://img.shields.io/badge/-Hyperf-000?&logo=PHP)
+![Swoole](https://img.shields.io/badge/-Swoole-000?&logo=PHP)
 ![Nest](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
 ![Postgres](https://img.shields.io/badge/-Postgres-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
@@ -33,12 +36,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=AmazonWebServices)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)  
-<div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizottavioc&layout=compact&langs_count=10&theme=dracula&count_private=true&exclude_repo=python-concepts&size_weight=0.2&count_weight=0.5&hide=html,blade"/>
-  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizottavioc&theme=dracula"/>
-  <!--<img height="140em" src="https://github-readme-stats.vercel.app/api?username=luizottavioc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>-->
-</div>
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+
+<!--<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizottavioc&theme=dracula"/> -->
+<!--<img height="140em" src="https://github-readme-stats.vercel.app/api?username=luizottavioc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>-->
 
 ### Know my work!
 
@@ -48,7 +49,6 @@
 - No login required.
 - Link: [https://tira-ai.com.br](https://tira-ai.com.br).
   
-
 ### Let's talk
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/luizottavioc/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/luizottavioc/)
