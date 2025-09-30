@@ -1,6 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
-### I am Luiz Otávio Carvalho
+## Hi there, I am Luiz Otávio! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 - Full-Stack Developer
 - Bachelor's Degree in Information Systems.
 - Passionate about technology, problem-solving, and building solutions
