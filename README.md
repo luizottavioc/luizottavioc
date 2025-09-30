@@ -40,10 +40,8 @@
 
 ### Know my work: Tira Aí! <img src="https://github.com/luizottavioc/luizottavioc/assets/89395176/67f123a4-992c-4424-b1e4-8fbb60f7f046" alt="logo-tira-ai" width="15">  
 - Application that helps create balanced teams for recreational matches, with user authentication and data persistence.
-- Built with Hyperf (backend) and Vue (frontend), it allows players and lists to be created dynamically, stored securely, and accessed across devices through Google login.
-- Users can customize parameters for the draw, such as balancing by player rating or position, fixing key players, or generating random teams. The application also supports sharing generated teams, duplicating lists, and tracking efficiency through data insights.
-- With a focus on personalization, efficiency, and persistence, the platform reduces time and disagreements when forming teams, while keeping your data safe and always available.
-- No unnecessary complexity – just log in, create your lists, draw, and share.
+- Built with **Hyperf** and **Vue**, it allows players and lists to be created dynamically, stored securely, and accessed across devices through Google login.
+- Users can customize parameters for the draw, such as balancing by player rating or position, fixing key players, or generating random teams. The application also supports sharing generated teams, duplicating lists, and tracking efficiency through data insights. With a focus on personalization, efficiency, and persistence, the platform reduces time and disagreements when forming teams, while keeping your data safe and always available.
 - Link: [https://www.tira-ai.com.br](https://www.tira-ai.com.br).
 
 ### Let's talk
